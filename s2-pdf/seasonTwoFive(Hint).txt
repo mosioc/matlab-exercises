@@ -1,0 +1,3 @@
+how to enter matrix: [grade, unit; grade, unit; ...]
+
+example: [20, 3; 10, 2]
